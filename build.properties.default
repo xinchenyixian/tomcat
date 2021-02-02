@@ -139,7 +139,7 @@ jdt.jar=${jdt.home}/ecj-${jdt.version}.jar
 # The download will be moved to the archive area eventually. We are taking care of that in advance.
 jdt.loc.1=http://archive.eclipse.org/eclipse/downloads/drops4/${jdt.release}/ecj-${jdt.version}.jar
 jdt.loc.2=http://download.eclipse.org/eclipse/downloads/drops4/${jdt.release}/ecj-${jdt.version}.jar
-
+#jdt.loc.1=http://archive.eclipse.org/eclipse/downloads/drops4/R-4.18-202012021800/ecj-4.18.jar
 # ----- Tomcat native library -----
 tomcat-native.version=1.2.26
 tomcat-native.src.checksum.enabled=true
